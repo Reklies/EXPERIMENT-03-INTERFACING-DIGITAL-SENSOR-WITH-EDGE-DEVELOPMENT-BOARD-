@@ -89,11 +89,13 @@ while True:
 
 ## **OUTPUT:**  
 
-![Screenshot 2025-03-06 112703](https://github.com/user-attachments/assets/00106dfc-703b-43a0-a4f1-b707cc7acc62)
+![Screenshot 2025-03-06 114553](https://github.com/user-attachments/assets/0be7d51e-a8eb-4878-866a-154e1784f6ac)
 
-![Screenshot 2025-03-06 113244](https://github.com/user-attachments/assets/9558f44c-4d65-4265-aa79-215e5aa3f535)
+![Screenshot 2025-03-06 114553](https://github.com/user-attachments/assets/49f1fe7e-c909-4b02-8605-12f5cb26c326)
 
-![Screenshot 2025-03-06 113316](https://github.com/user-attachments/assets/3ad56224-0c9e-4a58-88bf-b55fd4a0ae3c)
+
+![Screenshot 2025-03-06 114412](https://github.com/user-attachments/assets/1774ccc9-e206-4fe8-b78e-52b00c6c5f4c)
+
 
 
 ## **RESULT:**  
