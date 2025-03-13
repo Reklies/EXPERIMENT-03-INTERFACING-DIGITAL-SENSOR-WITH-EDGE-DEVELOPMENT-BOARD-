@@ -89,7 +89,8 @@ while True:
 
 ## **OUTPUT:**  
 
-![Screenshot 2025-03-06 114553](https://github.com/user-attachments/assets/0be7d51e-a8eb-4878-866a-154e1784f6ac)
+![Screenshot 2025-03-06 114428](https://github.com/user-attachments/assets/81165f2f-8608-4a25-b3a1-745e7d5bc883)
+
 
 ![Screenshot 2025-03-06 114553](https://github.com/user-attachments/assets/49f1fe7e-c909-4b02-8605-12f5cb26c326)
 
